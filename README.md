@@ -5,6 +5,10 @@
 Cyberoam Utility Pack (forked from dash1291) has been modded to work with three additional files aiming to separate the data being processed from the source code and implementing abstraction at a basic level:
 "user.txt"	"pass.txt"	"list.txt"
 
+## Critical Update
+
+* Fixed __*bruteforce.py*__ for AD Server Lockdown
+
 ## Setup
 
 To start using the tool instantly:
